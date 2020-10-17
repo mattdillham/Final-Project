@@ -9,3 +9,5 @@ The next instance of communication the team had was October 14th, a Zoom call co
 Some slack messages were sent amongst the group throughout the day. Also a Zoom call between Dillon, Greg and Luke occurred from 7PM till 7:21PM where Greg pushed resources to the main branch of GitHub. Dillon and Kevin had a Zoom meeting for 30 minutes.
 # Friday October 16th
 Main communication form was messaging through group slack channel throughout the day.
+# Saturday October 17th
+Slack messages were sent throughout the day. A Zoom call between Kevin and Dillon started around 5:30pm with Greg joining around 6pm and the meeting ended at (INSERT TIME)
