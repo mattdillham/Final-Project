@@ -45,3 +45,24 @@
 - Using Natural Language Processing (NLP) to present a Sentiment and Emotion Analysis
   for each Candidate
   
+  -------------
+  Draft Results
+  -------------
+  
+  ![](https://github.com/mattdillham/Final-Project/blob/Greg/Images/ML_1.png)
+  
+  ---------------------------------------------------------------------------
+  
+  ![](https://github.com/mattdillham/Final-Project/blob/Greg/Images/ML_2.png)
+  
+  ---------------------------------------------------------------------------
+  
+  
+  - May also explore some form of hypothesis testing (T-test, ANOVA, A/B Testing)
+    Honestly, we are not 100% about this part but when we delve deeper into ETL
+    and ML, we will have a clearer pricture of what to do.  But we can definitely
+    execute a Sentiment Analysis.
+    
+  --------------------------------------------------------------------------------
+  
+  
