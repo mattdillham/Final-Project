@@ -10,4 +10,4 @@ Some slack messages were sent amongst the group throughout the day. Also a Zoom 
 # Friday October 16th
 Main communication form was messaging through group slack channel throughout the day.
 # Saturday October 17th
-Slack messages were sent throughout the day. A Zoom call between Kevin and Dillon started around 5:30pm with Greg joining around 6pm and the meeting ended at (INSERT TIME)
+Slack messages were sent throughout the day. A Zoom call between Kevin and Dillon started around 5:30pm with Greg joining around 6pm and the meeting ended at 7:30pm.
