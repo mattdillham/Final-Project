@@ -1,0 +1,14 @@
+ ------
+| DATA |
+ ------
+
+-------------------------------------------------------------------------
+As Data files exceed Git Hub storage limits, a OneDrive link was provided
+-------------------------------------------------------------------------
+
+-----------------------------------------
+Trump vs Biden (30 Day Prior to Election)
+-----------------------------------------
+
+<a> href= https://drive.google.com/file/d/1wqI25RBN229D9dHsdIwuLa0gozUxK-um/view?usp=sharing </a>
+
