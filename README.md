@@ -13,3 +13,27 @@ Main communication form was messaging through group slack channel throughout the
 Slack messages were sent throughout the day. A Zoom call between Kevin and Dillon started around 5:30pm with Greg joining around 6pm and the meeting ended at 7:30pm.
 # Sunday October 18th
 The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joined a few times, but had connection issues so the group kept him updated through slack. Later on in the day the group met from 7-
+
+--------
+### Data
+--------
+
+- Scraping Twitter for tweets with the names of US presidential candidates in 2008,
+  2012, 2016 & 2020
+  
+- Unable to scrape data for an extended period eg. for 1 year or even 10 consecutive 
+  days.  Process of scraping data for one day takes approximately 10 to 15 minutes.
+  We simply do not have the hardware or time to pull that much data and store it 
+  for further analysis.
+  
+- Instead, we opted to scrape data for three days only.
+  1) 30 Days Prior to Election
+  2) 15 Days Prior to Election
+  3) 1 Day Prior to Election
+  
+- Will scrape the above data for the following Elections:
+  1) 2008 => Barack Obama vs John McCain
+  2) 2012 => Barack Obama vs Mitt Romney
+  3) 2016 => Donald Trump vs Hillary Clinton
+  4) 2020 => Donald Trump vs Joe Biden
+  
