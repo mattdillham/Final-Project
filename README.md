@@ -36,4 +36,9 @@ The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joine
   2) 2012 => Barack Obama vs Mitt Romney
   3) 2016 => Donald Trump vs Hillary Clinton
   4) 2020 => Donald Trump vs Joe Biden
+
+---------------------
+### Machine Learning
+---------------------
+Using Natural Language Processing (NLP) to present a Sentiment and Emotion Analysis for each Candidate
   
