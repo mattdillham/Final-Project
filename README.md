@@ -40,11 +40,12 @@ The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joine
 ---------------------
 ### Machine Learning
 ---------------------
+- Using Natural Language Processing (NLP) to present a Sentiment and Emotion Analysis
+  for each Candidate
 
-
-  -------------
-  Draft Results
-  -------------
+  -----------------
+  ### Draft Results
+  -----------------
   
   ![](https://github.com/mattdillham/Final-Project/blob/Greg/Images/ML_1.png)
   
