@@ -12,7 +12,7 @@ Main communication form was messaging through group slack channel throughout the
 # Saturday October 17th
 Slack messages were sent throughout the day. A Zoom call between Kevin and Dillon started around 5:30pm with Greg joining around 6pm and the meeting ended at 7:30pm.
 # Sunday October 18th
-The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joined a few times, but had connection issues so the group kept him updated through slack. Later on in the day the group met from 7-
+The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joined a few times, but had connection issues so the group kept him updated through slack. Later on in the day the group met from 7-7:45pm.
 
 --------
 ### Data
