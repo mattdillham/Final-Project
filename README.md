@@ -19,7 +19,7 @@
 ### Data
 --------
 
-- Scaraping Twitter for tweets with the names of US presidential candidates in 2008,
+- Scraping Twitter for tweets with the names of US presidential candidates in 2008,
   2012, 2016 & 2020
   
 - Unable to scrape data for an extended period eg. for 1 year or even 10 consecutive 
