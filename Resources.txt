@@ -7,8 +7,30 @@ As Data files exceed Git Hub storage limits, a OneDrive link was provided
 -------------------------------------------------------------------------
 
 -----------------------------------------
-Trump vs Biden (30 Day Prior to Election)
+Trump vs Biden (30 Days Prior to Election)
 -----------------------------------------
 
 <a> href= https://drive.google.com/file/d/1wqI25RBN229D9dHsdIwuLa0gozUxK-um/view?usp=sharing </a>
+
+
+-----------------------------------------------
+Trump vs Hillary (Complete Data) 2016 Election
+-----------------------------------------------
+
+<a> href=https://drive.google.com/file/d/1a3jxwW6-ysMr5Hc_clp_XeN4b6NME_zY/view?usp=sharing </a>
+
+
+-----------------------------------------------
+Barack vs Romney (Complete Data) 2012  Election
+-----------------------------------------------
+
+<a> href=https://drive.google.com/file/d/1xOwY1n5LKEuFZA988z77kMW256e0dpZ8/view?usp=sharing </a>
+
+
+-----------------------------------------------
+Barack vs McCain (Complete Data) 2008 Election
+-----------------------------------------------
+
+<a> href=https://drive.google.com/file/d/1uAQixrTMiSY2HAg_73jR_T9Ehhnw0TPT/view?usp=sharing </a>
+
 
