@@ -14,6 +14,10 @@ Slack messages were sent throughout the day. A Zoom call between Kevin and Dillo
 # Sunday October 18th
 The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joined a few times, but had connection issues so the group kept him updated through slack. Later on in the day the group met from 7-7:45pm.
 
+# Communication Protocols Week Two Oct.19-25
+# Monday October 19th
+The group all showed up to class at 7pm and met with Luke until around 9pm. Slack messages were sent throughout the day as well.
+
 --------
 ### Data
 --------
