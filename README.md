@@ -17,6 +17,8 @@ The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joine
 # Communication Protocols Week Two Oct.19-25
 # Monday October 19th
 The group all showed up to class at 7pm and met with Luke until around 9pm. Slack messages were sent throughout the day as well.
+# Tuesday October 20th
+Slack messages were sent throughout the day. Sebastian and Dillon had a Zoom call from 7:45-8:20pm. Kevin and Dillon had a Zoom call from 8:40-
 
 --------
 ### Data
