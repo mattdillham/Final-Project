@@ -18,7 +18,16 @@ The group met with Luke for office hours through Zoom from 12-1:37pm. Greg joine
 # Monday October 19th
 The group all showed up to class at 7pm and met with Luke until around 9pm. Slack messages were sent throughout the day as well.
 # Tuesday October 20th
-Slack messages were sent throughout the day. Sebastian and Dillon had a Zoom call from 7:45-8:20pm. Kevin and Dillon had a Zoom call from 8:40-9:15pm
+Slack messages were sent throughout the day. Sebastian and Dillon had a Zoom call from 7:45-8:20pm. Kevin and Dillon had a Zoom call from 8:40-9:15pm.
+# Wednesday october 21rst
+The group were all present for class at 7pm. We then met with Luke from 7:20pm until around 9:20pm. Slack messages were sent throughout the night as well.
+# Thursday October 22nd
+
+# Friday October 23rd
+
+# Saturday October 24th
+
+# Sunday October 25th
 
 --------
 ### Data
