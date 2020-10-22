@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 
 #csv
+<<<<<<< HEAD
 *.csv
+=======
+*.csv
+>>>>>>> f396bf44fa37dac8ba6cbdf4f1eb23a986f28568
