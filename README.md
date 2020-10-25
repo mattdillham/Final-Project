@@ -35,8 +35,9 @@ willing to make changes for the overall good of the country and future generatio
 
 * If these clusters exist in our data, this could give us some indication as to which side swing voters
 are leaning more towards.  And if these clusters don't exist, probably, more rational people don't have
-Twitter accounts.  Or maybe, they don't voice their political opinions on social media and make their 
-decision in silence.  
+Twitter accounts.  Or maybe, they don't voice their political opinions on social media and prefer to 
+make their decision in silence.  But we must do our cluster analysis first to see the different segments
+of tweets.
 
 #### Cluster F
 * The reason why I didn't choose to go with a very low subjectivity score for swing voters is because, in
