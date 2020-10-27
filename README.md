@@ -22,12 +22,13 @@ Slack messages were sent throughout the day. Sebastian and Dillon had a Zoom cal
 # Wednesday october 21rst
 The group were all present for class at 7pm. We then met with Luke from 7:20pm until around 9:20pm. Slack messages were sent throughout the night as well.
 # Thursday October 22nd
-
+Slack messages were sent throughout the day.
 # Friday October 23rd
-
+Slack messages were sent throughout the day. Kevin and Dillon exchanged text messages.
 # Saturday October 24th
-
+Slack messages were sent throughout the day.
 # Sunday October 25th
+(input office hours details)
 
 --------
 ### Data
