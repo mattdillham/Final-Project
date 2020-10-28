@@ -30,6 +30,12 @@ Slack messages were sent throughout the day.
 # Sunday October 25th
 (input office hours details)
 
+# Monday October 26tho
+Kevin and Dillon were present to class starting at 7, they met with Luke from 7:05pm until around 8pm.
+
+# Tuesday October 27th
+Kevin and Dillon started a Zoom call around 6:45pm and stayed on until 7:55pm, Sebastian joined for the last 20 minutes. Slack messages were sent throughout the day.
+
 --------
 ### Data
 --------
