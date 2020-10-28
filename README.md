@@ -28,7 +28,9 @@ Slack messages were sent throughout the day. Kevin and Dillon exchanged text mes
 # Saturday October 24th
 Slack messages were sent throughout the day.
 # Sunday October 25th
-(input office hours details)
+(input office hours details)!!!!
+
+# Communication Protocols Week Three Oct.26-Nov.1
 
 # Monday October 26tho
 Kevin and Dillon were present to class starting at 7, they met with Luke from 7:05pm until around 8pm.
