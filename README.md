@@ -40,7 +40,7 @@ Kevin and Dillon started a Zoom call around 6:45pm and stayed on until 7:55pm, S
 
 # Wednesday October 28th
 
-Sebastian and Dillon met from 6-6:30pm. The group was all present for class at 7pm
+Sebastian and Dillon met from 6-6:30pm. The group was all present for class at 7pm. We all worked with Luke until 9:15pm. We worked on cleaning data to enable machine learning process to take place. Greg was experiencing issues with internet connection. Slack messages were went throughout the day
 
 
 
