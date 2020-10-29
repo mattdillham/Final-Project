@@ -39,7 +39,11 @@ Kevin and Dillon were present to class starting at 7, they met with Luke from 7:
 Kevin and Dillon started a Zoom call around 6:45pm and stayed on until 7:55pm, Sebastian joined for the last 20 minutes. Slack messages were sent throughout the day.
 
 # Wednesday October 28th
-Sebastian and Dillon met from 6-6:30pm
+
+Sebastian and Dillon met from 6-6:30pm. The group was all present for class at 7pm
+
+
+
 --------
 ### Data
 --------
