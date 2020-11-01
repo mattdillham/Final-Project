@@ -32,7 +32,7 @@ Sebastian met with look for office hours.
 
 # Communication Protocols Week Three Oct.26-Nov.1
 
-# Monday October 26tho\
+# Monday October 26th
 Kevin and Dillon were present to class starting at 7, they met with Luke from 7:05pm until around 8pm.
 
 # Tuesday October 27th
