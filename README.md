@@ -28,7 +28,7 @@ Slack messages were sent throughout the day. Kevin and Dillon exchanged text mes
 # Saturday October 24th
 Slack messages were sent throughout the day.
 # Sunday October 25th
-(input office hours details)!!!!
+Sebastian met with look for office hours.
 
 # Communication Protocols Week Three Oct.26-Nov.1
 
@@ -53,6 +53,12 @@ Slack messages were sent throughout the day.
 
 # Sunday November 1rst
 Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-
+
+# Responsibility Breakdown
+Dillon- Github, data cleaning and dashboard
+Sebastian- data cleaning and dashboard
+Greg- Machine learning model, part of git hub and database
+Kevin- machine learning model and presentation
 
 --------
 ### Data
