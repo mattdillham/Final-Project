@@ -32,7 +32,7 @@ Slack messages were sent throughout the day.
 
 # Communication Protocols Week Three Oct.26-Nov.1
 
-# Monday October 26tho
+# Monday October 26tho\
 Kevin and Dillon were present to class starting at 7, they met with Luke from 7:05pm until around 8pm.
 
 # Tuesday October 27th
@@ -48,6 +48,11 @@ Sebastian and Dillon corresponded through slack.'
 # Friday October 30th
 Slack messages were sent throughout the day.
 
+# Saturday October 31rst
+Slack messages were sent throughout the day.
+
+# Sunday November 1rst
+Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-
 
 --------
 ### Data
