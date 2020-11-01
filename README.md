@@ -55,10 +55,10 @@ Slack messages were sent throughout the day.
 Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-
 
 # Responsibility Breakdown
-Dillon- Github, data cleaning and dashboard
-Sebastian- data cleaning and dashboard
-Greg- Machine learning model, part of git hub and database
-Kevin- machine learning model and presentation
+# Dillon- Github, data cleaning and dashboard
+# Sebastian- data cleaning and dashboard
+# Greg- Machine learning model, part of git hub and database
+# Kevin- machine learning model and presentation
 
 --------
 ### Data
