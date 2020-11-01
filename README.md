@@ -52,7 +52,7 @@ Slack messages were sent throughout the day.
 Slack messages were sent throughout the day.
 
 # Sunday November 1rst
-Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-
+Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-1:38pm
 
 # Responsibility Breakdown
 # Dillon- Github, data cleaning and dashboard
