@@ -60,6 +60,12 @@ Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours fro
 # Greg- Machine learning model, and MongoDB database
 # Kevin- machine learning model and presentation
 
+# Locations
+Database located on main branch under 'resources.txt'.
+MongoDB located on main branch under 'mongo export data' and 'mongo import data'.
+Everything else is located in everyones individual branch.
+
+
 --------
 ### Data
 --------
