@@ -6,3 +6,8 @@ My role throughout this project will be to extract the data scraped from twitter
 
 # Segment 2 Deliverable
 Completely cleaned all the datasets for Trump from Twitter. To clean the data we decided to clean the tweets from hashtags, emojis and links to organize the possible sentiment we can see from the machine learning models. 
+
+# Dashboard 
+https://public.tableau.com/profile/sebastian4629#!/vizhome/TrumpDashboard_16042791179980/Sheet1?publish=yes
+
+This is a sample of what the dashboard will include. We will merge both the Trump and Biden data sets to provide a better picture of the data for this project. 
