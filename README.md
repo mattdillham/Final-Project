@@ -22,12 +22,43 @@ Slack messages were sent throughout the day. Sebastian and Dillon had a Zoom cal
 # Wednesday october 21rst
 The group were all present for class at 7pm. We then met with Luke from 7:20pm until around 9:20pm. Slack messages were sent throughout the night as well.
 # Thursday October 22nd
-
+Slack messages were sent throughout the day.
 # Friday October 23rd
-
+Slack messages were sent throughout the day. Kevin and Dillon exchanged text messages.
 # Saturday October 24th
-
+Slack messages were sent throughout the day.
 # Sunday October 25th
+Sebastian met with look for office hours.
+
+# Communication Protocols Week Three Oct.26-Nov.1
+
+# Monday October 26th
+Kevin and Dillon were present to class starting at 7, they met with Luke from 7:05pm until around 8pm.
+
+# Tuesday October 27th
+Kevin and Dillon started a Zoom call around 6:45pm and stayed on until 7:55pm, Sebastian joined for the last 20 minutes. Slack messages were sent throughout the day.
+
+# Wednesday October 28th
+
+Sebastian and Dillon met from 6-6:30pm. The group was all present for class at 7pm. We all worked with Luke until 9:15pm. We worked on cleaning data to enable machine learning process to take place. Greg was experiencing issues with internet connection. Slack messages were went throughout the day
+
+# Thursday October 29th
+Sebastian and Dillon corresponded through slack.'
+
+# Friday October 30th
+Slack messages were sent throughout the day.
+
+# Saturday October 31rst
+Slack messages were sent throughout the day.
+
+# Sunday November 1rst
+Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-1:38pm
+
+# Responsibility Breakdown
+# Dillon- Github, data cleaning and dashboard
+# Sebastian- data cleaning and dashboard
+# Greg- Machine learning model, part of git hub and database
+# Kevin- machine learning model and presentation
 
 --------
 ### Data
