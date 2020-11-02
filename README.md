@@ -63,8 +63,8 @@ Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours fro
 # Locations
 Database located on main branch under 'resources.txt'.
 MongoDB located on main branch under 'mongo export data' and 'mongo import data'.
+Greg and Kevin's contribution was 'NLP_Sentiment.ipynb' located on the main branch.
 Everything else is located in everyones individual branch.
-
 
 --------
 ### Data
