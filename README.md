@@ -6,3 +6,5 @@ https://public.tableau.com/profile/dillon.hamilton#!/vizhome/DashboardDraft2_160
 
 This is just a sample of what the dashboard will include, later on we will merge the trump data and compare the two different datasets. We will also have an interactive feature with the data that will highlight and make comparison easier. 
  
+# Cleaned Dataset
+Biden_3.ipynb is the most updated dataset that has been pushed.
