@@ -57,7 +57,7 @@ Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours fro
 # Responsibility Breakdown Segment 2
 # Dillon- Github, data cleaning and dashboard
 # Sebastian- data cleaning and dashboard
-# Greg- Machine learning model, part of git hub and database
+# Greg- part of inital Machine learning model, and MongoDB database
 # Kevin- machine learning model and presentation
 
 --------
