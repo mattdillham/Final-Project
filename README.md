@@ -66,6 +66,15 @@ MongoDB located on main branch under 'mongo export data' and 'mongo import data'
 Greg and Kevin's contribution was 'NLP_Sentiment.ipynb' located on the main branch.
 Everything else is located in everyones individual branch.
 
+# Communication Protocols Week Four Nov.2-Nov.8
+
+# Monday November 2nd
+Greg, Kevin  and Dillon met with Luke from 7pm until around 8:15pm. Slack messages were sent throughout the day.
+
+# Tuesday November 3rd
+
+# Wednesday November 4th
+
 --------
 ### Data
 --------
