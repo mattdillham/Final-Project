@@ -52,13 +52,28 @@ Slack messages were sent throughout the day.
 Slack messages were sent throughout the day.
 
 # Sunday November 1rst
-Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-1:38pm
+Greg, Sebastian and Dillon all met on a Zoom call with Luke for office hours from around 12-1:38pm. A Zoom call started around 6pm and lasted until 7:20pm all team members were present.
 
-# Responsibility Breakdown
+# Responsibility Breakdown Segment 2
 # Dillon- Github, data cleaning and dashboard
 # Sebastian- data cleaning and dashboard
-# Greg- Machine learning model, part of git hub and database
+# Greg- Machine learning model, and MongoDB database
 # Kevin- machine learning model and presentation
+
+# Locations
+Database located on main branch under 'resources.txt'.
+MongoDB located on main branch under 'mongo export data' and 'mongo import data'.
+Greg and Kevin's contribution was 'NLP_Sentiment.ipynb' located on the main branch.
+Everything else is located in everyones individual branch.
+
+# Communication Protocols Week Four Nov.2-Nov.8
+
+# Monday November 2nd
+Greg, Kevin  and Dillon met with Luke from 7pm until around 8:15pm. Slack messages were sent throughout the day.
+
+# Tuesday November 3rd
+
+# Wednesday November 4th
 
 --------
 ### Data
