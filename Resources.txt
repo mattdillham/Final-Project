@@ -26,6 +26,16 @@ Third_Debate - https://drive.google.com/file/d/1MrpLFa4VHwKBGpqvjPKWek0npXTrukVR
 NER_Table => https://drive.google.com/file/d/1Tla5iMYumvFtByjMFHNQ8Cev49OtV4Y8/view?usp=sharing
 ------------------------------------------------------------------------------------------------
 
+----------------------
+Subjectivity Analysis
+---------------------
+----------------------------------------------------------------------------------------------------------------------
+Biden_First_Debate_Subjectivity => https://drive.google.com/file/d/1nTqLodIQdFqRqMB7-IrTQT9W0bGPjNNL/view?usp=sharing
+----------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------
+Trump_First_Debate_Subjectivity => https://drive.google.com/file/d/1pxbWnMpAPEzvEJggurYb1xd5rIyzmVH8/view?usp=sharing
+---------------------------------------------------------------------------------------------------------------------
 2020 Data 
 -----------------------------------------
 Biden First Debate
