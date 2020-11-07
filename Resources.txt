@@ -22,6 +22,10 @@ Town_Hall - https://drive.google.com/file/d/1Nq_F4ukXtjgcR2wm97UdtuXiMkx1dfsl/vi
 Third_Debate - https://drive.google.com/file/d/1MrpLFa4VHwKBGpqvjPKWek0npXTrukVR/view?usp=sharing
 --------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------------
+NER_Table => https://drive.google.com/file/d/1R6C8DA6G6dUXOCkOBT20CXwzV3rcDfXs/view?usp=sharing
+------------------------------------------------------------------------------------------------
+
 2020 Data 
 -----------------------------------------
 Biden First Debate
