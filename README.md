@@ -74,6 +74,18 @@ Greg, Kevin  and Dillon met with Luke from 7pm until around 8:15pm. Slack messag
 # Tuesday November 3rd
 
 # Wednesday November 4th
+The group met at class time at 7pm and worked with Luke until 9pm. Slcak messages were sent throughout the day.
+
+# Thursday November 5th
+Slack messgaes were sent throughout the day.
+
+# Friday November 6th
+Greg, Sebastian and Dillon met on a Zoom call at around 6pm, we all came and went working with eachother throughout until around 8:50pm.
+
+# Saturday November 7th
+
+# Sunday november 8th
+
 
 --------
 ### Data
