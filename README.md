@@ -12,7 +12,7 @@ https://public.tableau.com/profile/sebastian4629#!/vizhome/TrumpDashboard_160427
 
 This is a sample of what the dashboard will include. We will merge both the Trump and Biden data sets to provide a better picture of the data for this project. 
 
-#Updated Tableau graphs 
+# Updated Tableau graphs 
 https://public.tableau.com/profile/sebastian4629#!/vizhome/ThirdDebate/SentimentPieCharts?publish=yes
 
 These are the graphs showing sentiment per tweets, likes and replies. 
