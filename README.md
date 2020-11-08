@@ -11,3 +11,8 @@ Completely cleaned all the datasets for Trump from Twitter. To clean the data we
 https://public.tableau.com/profile/sebastian4629#!/vizhome/TrumpDashboard_16042791179980/Sheet1?publish=yes
 
 This is a sample of what the dashboard will include. We will merge both the Trump and Biden data sets to provide a better picture of the data for this project. 
+
+#Updated Tableau graphs 
+https://public.tableau.com/profile/sebastian4629#!/vizhome/ThirdDebate/SentimentPieCharts?publish=yes
+
+These are the graphs showing sentiment per tweets, likes and replies. 
