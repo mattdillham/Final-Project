@@ -88,7 +88,7 @@ Slack messages were sent throughout the day.
 # Sunday november 8th
 Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30om
 
-# Responsibility Breakdown Segment 2
+# Responsibility Breakdown Segment 3
 # Dillon- Github and dashboard
 # Sebastian- Dashboard
 # Greg- Machine learning model, Data Cleaning and Dashboard
