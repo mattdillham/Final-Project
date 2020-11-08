@@ -83,10 +83,16 @@ Slack messgaes were sent throughout the day.
 Greg, Sebastian and Dillon met on a Zoom call at around 6pm, we all came and went working with eachother throughout until around 8:50pm.
 
 # Saturday November 7th
+Slack messages were sent throughout the day.
 
 # Sunday november 8th
+Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30om
 
-
+# Responsibility Breakdown Segment 2
+# Dillon- Github and dashboard
+# Sebastian- Dashboard
+# Greg- Machine learning model, Data Cleaning and Dashboard
+# Kevin- machine learning model, Dashboard and presentation
 --------
 ### Data
 --------
