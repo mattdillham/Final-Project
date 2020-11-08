@@ -8,3 +8,8 @@ This is just a sample of what the dashboard will include, later on we will merge
  
 # Cleaned Dataset
 Biden_3.ipynb is the most updated dataset that has been pushed.
+
+# Updated Tableau Dashboard
+https://public.tableau.com/profile/dillon.hamilton#!/vizhome/DashboardDraft2_16042773489070/Dashboard2?publish=yes
+
+interactive elements(filters) on Sheets 23-25
