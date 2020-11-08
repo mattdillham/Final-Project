@@ -1,0 +1,4 @@
+Subjectivity_Class,Avg Replies,Avg Retweets,Avg Likes,Avg Tweet Length,Avg Sentiment,Total
+Passive,1.2,4.6,19.8,13.9,0.017,71438
+Balanced,1.5,4.1,18.7,25.2,0.109,55724
+Subjective,2.1,4.9,24.6,18.6,0.014,20004
