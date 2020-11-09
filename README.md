@@ -92,7 +92,7 @@ Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian an
 # Dillon- Github and dashboard
 # Sebastian- Dashboard
 # Greg- Machine learning model, Data Cleaning and Dashboard
-# Kevin- machine learning model, Dashboard and presentation
+# Kevin- machine learning model, Dashboard and presentation (Slides_Presentation)
 --------
 ### Data
 --------
