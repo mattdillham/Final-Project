@@ -86,7 +86,7 @@ Greg, Sebastian and Dillon met on a Zoom call at around 6pm, we all came and wen
 Slack messages were sent throughout the day.
 
 # Sunday november 8th
-Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30om
+Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30pm. Kevin and Dillon had Zoom calls from 7:45pm until 10:30pm.
 
 # Responsibility Breakdown Segment 3
 # Dillon- Github and dashboard
