@@ -72,6 +72,7 @@ Everything else is located in everyones individual branch.
 Greg, Kevin  and Dillon met with Luke from 7pm until around 8:15pm. Slack messages were sent throughout the day.
 
 # Tuesday November 3rd
+Slack messages were sent throughout the day.
 
 # Wednesday November 4th
 The group met at class time at 7pm and worked with Luke until 9pm. Slack messages were sent throughout the day.
