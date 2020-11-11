@@ -72,9 +72,10 @@ Everything else is located in everyones individual branch.
 Greg, Kevin  and Dillon met with Luke from 7pm until around 8:15pm. Slack messages were sent throughout the day.
 
 # Tuesday November 3rd
+Slack messages were sent throughout the day.
 
 # Wednesday November 4th
-The group met at class time at 7pm and worked with Luke until 9pm. Slcak messages were sent throughout the day.
+The group met at class time at 7pm and worked with Luke until 9pm. Slack messages were sent throughout the day.
 
 # Thursday November 5th
 Slack messgaes were sent throughout the day.
@@ -83,10 +84,32 @@ Slack messgaes were sent throughout the day.
 Greg, Sebastian and Dillon met on a Zoom call at around 6pm, we all came and went working with eachother throughout until around 8:50pm.
 
 # Saturday November 7th
+Slack messages were sent throughout the day.
 
 # Sunday november 8th
+Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30pm. Kevin and Dillon had Zoom calls from 7:45pm until 10:30pm.
+
+# Communication Protocols Week 5
+
+# Monday
+Everyone showed up for class at 7pm and stayed until 8:30pm. Slcak messages were sent throughout the day.
+
+# Tuesday
+Kevin, Sebastian and Dillon met on Zoom calls from 6:20-8pm. Slack messages were sent throughout the day.
 
 
+
+
+
+# Presentation
+Kevin opening remarks
+Tabluea order-1)Dillon Value Counts 2)Kevin Tweet Length 3)Sebastian Sentiment 4)Greg Subjectivity and NER Table
+Kevin closing remarks on observations(shortcomings) and further opportunities 
+# Responsibility Breakdown Segment 3
+# Dillon- Github and dashboard
+# Sebastian- Dashboard
+# Greg- Machine learning model, Data Cleaning and Dashboard
+# Kevin- machine learning model, Dashboard and presentation ('Slides_Presentation.pdf' located on main branch)
 --------
 ### Data
 --------
