@@ -89,9 +89,13 @@ Slack messages were sent throughout the day.
 # Sunday november 8th
 Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30pm. Kevin and Dillon had Zoom calls from 7:45pm until 10:30pm.
 
+# Communication Protocols Week 5
+
 # Monday
+Everyone showed up for class at 7pm and stayed until 8:30pm. Slcak messages were sent throughout the day.
 
 # Tuesday
+Kevin, Sebastian and Dillon met on Zoom calls from 6:20-8pm. Slack messages were sent throughout the day.
 
 
 
