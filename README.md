@@ -89,6 +89,18 @@ Slack messages were sent throughout the day.
 # Sunday november 8th
 Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian and Dillon met on Zoom calls from around 2:30-4:30pm. Kevin and Dillon had Zoom calls from 7:45pm until 10:30pm.
 
+# Monday
+
+# Tuesday
+
+
+
+
+
+# Presentation
+Kevin opening remarks
+Tabluea order-1)Dillon Value Counts 2)Kevin Tweet Length 3)Sebastian Sentiment 4)Greg Subjectivity and NER Table
+Kevin closing remarks on observations(shortcomings) and further opportunities 
 # Responsibility Breakdown Segment 3
 # Dillon- Github and dashboard
 # Sebastian- Dashboard
