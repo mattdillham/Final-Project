@@ -109,7 +109,7 @@ Kevin closing remarks on observations(shortcomings) and further opportunities
 # Dillon- Github and dashboard
 # Sebastian- Dashboard
 # Greg- Machine learning model, Data Cleaning and Dashboard
-# Kevin- machine learning model, Dashboard and presentation ('Slides_Presentation.pdf' located on main branch)
+# Kevin- machine learning model, Dashboard and presentation ('Final_Presentation_Class.pdf' located on main branch)
 --------
 ### Data
 --------
