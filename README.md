@@ -91,11 +91,14 @@ Sebastian and Dillon were in office hours with Luke briefly. Kevin, Sebastian an
 
 # Communication Protocols Week 5
 
-# Monday
+# Monday November 9th
 Everyone showed up for class at 7pm and stayed until 8:30pm. Slcak messages were sent throughout the day.
 
-# Tuesday
+# Tuesday November 10th
 Kevin, Sebastian and Dillon met on Zoom calls from 6:20-8pm. Slack messages were sent throughout the day.
+
+# Wednesday November 11th
+All group members met before class around 6pm and then met with Luke at 6:30. They then presented their final project.
 
 
 
