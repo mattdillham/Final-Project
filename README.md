@@ -100,6 +100,9 @@ Kevin, Sebastian and Dillon met on Zoom calls from 6:20-8pm. Slack messages were
 # Wednesday November 11th
 All group members met before class around 6pm and then met with Luke at 6:30. They then presented their final project.
 
+# Thursday-Sunday
+Slack messages were sent throughout these dates.
+
 
 
 
@@ -113,6 +116,9 @@ Kevin closing remarks on observations(shortcomings) and further opportunities
 # Sebastian- Dashboard
 # Greg- Machine learning model, Data Cleaning and Dashboard
 # Kevin- machine learning model, Dashboard and presentation ('Final_Presentation_Class.pdf' located on main branch)
+
+# Final Dashboard Link
+https://public.tableau.com/profile/dillon.hamilton#!/vizhome/DashboardFinal_16048935786450/NERTable?publish=yes
 --------
 ### Data
 --------
